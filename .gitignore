@@ -1,0 +1,9 @@
+.gitignore bin/
+obj/
+bin/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+*.sln.DotSettings.user
+.DS_Store
+**/dist
